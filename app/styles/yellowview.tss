@@ -1,3 +1,9 @@
 ".container": {
 	backgroundColor: "white"
+},
+"#yellowview":{
+	backgroundColor:"yellow",
+	height:"40dp",
+	width:"90%"	
 }
+ 

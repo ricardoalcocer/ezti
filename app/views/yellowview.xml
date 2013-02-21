@@ -1,4 +1,5 @@
 <Alloy>
-	<View id="yellowview" class="container" backgroundColor="yellow" height="40dp" width="90%" onClick="hideme">
+	<View id="yellowview" class="container" onClick="hideme">
+		<Label>Now click me</Label>
 	</View>
 </Alloy>

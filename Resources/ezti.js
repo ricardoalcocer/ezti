@@ -25,3 +25,7 @@ exports.showView = function(parent, view) {
 exports.hideMe = function(whoami) {
     whoami.visible = "false";
 };
+
+exports.openWinFromRow = function(row) {
+    this.openWin(row.win);
+};

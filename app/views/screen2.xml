@@ -1,6 +1,6 @@
 <Alloy>
 	<Window id="screen2" class="container" onClick="showyellowview">
-		<Label onClick="closeme">Win2</Label>
+		<Label onClick="closeme">Click the window, then click me</Label>
 	</Window>
 </Alloy>
 

@@ -1,0 +1,6 @@
+<Alloy>
+	<Window id="screen3" onClick="closeme">
+		<View class="container">
+		</View>
+	</Window>
+</Alloy>
