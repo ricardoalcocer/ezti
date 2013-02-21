@@ -1,0 +1,4 @@
+<Alloy>
+	<View id="yellowview" class="container" backgroundColor="yellow" height="40dp" width="90%" onClick="hideme">
+	</View>
+</Alloy>

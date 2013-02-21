@@ -1,0 +1,7 @@
+<Alloy>
+	<Window id="screen2" class="container" onClick="showyellowview">
+		<Label onClick="closeme">Win2</Label>
+	</Window>
+</Alloy>
+
+
