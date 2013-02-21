@@ -1,0 +1,1 @@
+This repo contains a full Appcelerator Titanium project, which I use to create test cases, but in reality the only important file is /app/lib/ezti.js.
