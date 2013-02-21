@@ -43,5 +43,5 @@ exports.hideMe=function(whoami){
 // opens window from table row
 // assumes that the row has a "win" property holding the name of the controller's XML file
 exports.openWinFromRow=function(row){
-	this.openWin(row.win);
+	this.openWin(row.eztiwin);
 }

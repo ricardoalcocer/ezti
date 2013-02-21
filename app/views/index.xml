@@ -2,13 +2,13 @@
 	<Window class="container">
 		<!-- Label id="label" onClick="doClick">Click me</Label -->
 		<TableView id="table" onClick="onTableClick">
-			<TableViewRow win="screen2"> 
+			<TableViewRow eztiwin="screen2"> 
 				<Label>test</Label>
 			</TableViewRow>
-			<TableViewRow win="screen3">
+			<TableViewRow eztiwin="screen3">
 				<Label>test</Label>
 			</TableViewRow>
-			<TableViewRow win="screen2">
+			<TableViewRow eztiwin="screen2">
 				<Label>test</Label>
 			</TableViewRow>
 		</TableView>
