@@ -30,12 +30,18 @@ exports.alert=function(title,message){
 }
 
 // gets a view from disk and adds it to the specified parent 
-exports.showView=function(parent,view){ 
-	var v=Alloy.createController(view).getView(); 
+exports.addView=function(parent,view){ 
+	//Ti.API.info(JSON.stringify(parent.children));
+	var v=Alloy.createController(view).getView();
 	parent.add(v); 
 }
 
-// hides a view
+// removes the view from it's parent
+exports.removeView=function(parent,view){
+	parent.remove(view);
+}
+
+// hides an object..does not removes it, so careful
 exports.hideMe=function(whoami){ 
 	whoami.visible="false" 
 }

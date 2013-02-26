@@ -5,7 +5,7 @@ function doClick(e) {
 }
 
 function onTableClick(e){
-	// assumes that the row has a "win" property holding the name of the controller's XML file
+	// assumes that the row has a "eztiwin" property holding the name of the controller's XML file
 	ezti.openWinFromRow(e.rowData);
 }
 

@@ -6,9 +6,5 @@ function closeme(){
 }
 
 function showyellowview(){
-	ezti.showView($.screen2,'yellowview');
-}
-
-function hideyellowview(){
-	ezti.hideView($.screen2,'yellowview')
+	ezti.addView($.screen2,'yellowview');
 }
