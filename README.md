@@ -12,6 +12,7 @@ Methods exposed:
 * openWin(viewname)
 * closeWin(winhandle)
 * alert(title,message)
-* showView(parent,view)
+* addView(parent,view)
+* removeView(parent,view)
 * hideMe(targetobject)
 * openWinFromRow(row)
