@@ -1,6 +1,6 @@
 About
 =======
-Easy Titanium - A wrapper around Alloy. Designed to provide an abstraction layer for graphic artists, web developers and light Javascript coders. This library should be look at as a bridge that will allow non-coders to start building static, website-like apps using Titanium, while exposing them to the syntax and flattening the learning curve.  Once comfortable with how Titanium works, this library should be discarded and regular Titanium code should be used.
+Easy Titanium - A wrapper around Alloy. Designed to provide an abstraction layer for graphic artists, web developers and light Javascript coders. This library should be looked at as a bridge that will allow non-coders to start building static, website-like apps using Titanium, while exposing them to the syntax and flattening the learning curve.  Once comfortable with how Titanium works, this library should be discarded and regular Titanium code should be used.
 
 Disclaimer
 -----
